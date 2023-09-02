@@ -1,0 +1,4 @@
+DROP TABLE users;
+DROP TABLE posts;
+DROP TABLE follows;
+DROP EXTENSION citext;
